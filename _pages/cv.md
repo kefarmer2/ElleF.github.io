@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Masters of Library and Information Science, University of North Carolina Greensboro, 2026 (expected)
+* B.S. in Sociology with a second major in Women's and Gender Studies, University of North Carolina at Chapel Hill, 2019
 
 Work experience
 ======
