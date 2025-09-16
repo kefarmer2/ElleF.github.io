@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Masters of Library and Information Science, University of North Carolina Greensboro, 2026 (expected)
-* B.S. in Sociology with a second major in Women's and Gender Studies, University of North Carolina at Chapel Hill, 2019
+* B.S. in Sociology & Women's and Gender Studies, University of North Carolina at Chapel Hill, 2019
 
 Work experience
 ======
