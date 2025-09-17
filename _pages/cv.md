@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Masters of Library and Information Science, University of North Carolina Greensboro, 2026 (expected)
+* Masters of Library and Information Science, University of North Carolina at Greensboro, 2026 (expected)
 * B.S. in Sociology, University of North Carolina at Chapel Hill, 2019
 * B.A. in Womens and Gender Studies, University of North Carolina at Chapel Hill, 2019
 
