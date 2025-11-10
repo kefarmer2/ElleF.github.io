@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Elle Farmer / Academic Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Elle Farmer"
+description              : &description "Elle Farmer's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://kefarmer2.github.io/ElleF.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Elle"
+  pronouns         : "she/her" 
+  bio              : "Hi, I’m Elle! I’m an MLIS student at the University of North Carolina at Greensboro and a library associate at Durham County Library currently working in adult services.
+                      I’m passionate about connecting people with the information, technology, and resources they need to thrive. My work centers on planning unique presentations with local 
+                      professors and experts to make learning fun for adults as well as ensuring equitable access to library services for underserved communities and bridging the digital divide. 
+                      Libraries play a vital role in fostering lifelong learning and community connection, and I’m dedicated to upholding those values through responsive and inclusive programming.
+                      
+                      While I plan to continue working in adult services after graduation, I also have a number of other career interests, including collection development, web design, research, 
+                      and lecturing. My professional goal is to empower patrons and help other library professionals do the same, no matter what specialty I end up in."
+  location         : "Durham, North Carolina"
+  employer         : "Durham County Library"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kefarmer2@uncg.edu" 
 
   # Academic websites
   academia         : # URL
