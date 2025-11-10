@@ -11,27 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Library and Information Science, UNC Greensboro, 2026 (expected)
+* B.A. in Sociology, UNC Chapel Hill, 2019
+* B.A. in Womens & Gender Studies, UNC Chapel Hill, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2023 - Current: Library Associate, Adult Services
+  * Durham County Library
+  * Duties include: Updates and improvements to template
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* May 2023 - November 2023: Library Technical Assistant
+  * Wake Tech Community College
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* April 2022 - November 2023: Library Assistant, Teen Services
+  * Durham County Library
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+* November 2021 - February 2022: Library Paraprofessional, Adult Services
+  * St. Charles City-County Library
+  * Duties included: insert stuff here
+
 Skills
 ======
 * Skill 1
