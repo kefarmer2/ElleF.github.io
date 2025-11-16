@@ -12,4 +12,7 @@ I’m an MLIS student at the University of North Carolina at Greensboro and a li
 
 While I plan to continue working in adult services after graduation, I also have a number of other career interests, including collection development, web design, research, and lecturing. My professional goal is to empower patrons and help other library professionals do the same, no matter what specialty I end up in.
 
-<style>p {font-family: Georgia}</style>
+<style>
+p {font-family: Georgia;}
+h1 {font-family: 'Crimson Pro';}
+</style>
