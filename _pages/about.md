@@ -15,4 +15,5 @@ While I plan to continue working in adult services after graduation, I also have
 <style>
 p {font-family: Georgia;}
 h1 {font-family: 'Crimson Pro';}
+h1 {font-weight: 800;}
 </style>
