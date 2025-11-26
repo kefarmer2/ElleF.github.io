@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<h2>Education</h2>
 ======
 * M.S. in Library and Information Science, UNC Greensboro, 2026 (expected)
 * B.A. in Sociology, UNC Chapel Hill, 2019
