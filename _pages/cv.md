@@ -31,10 +31,4 @@ redirect_from:
   * St. Charles City-County Library
   * Duties included: insert stuff here
 
-<h2>Skills</h2>
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<object data="Curriculum Vitae.pdf" width="1000" height="1000" type='application/pdf'/>
