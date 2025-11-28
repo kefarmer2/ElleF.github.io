@@ -4,7 +4,7 @@ collection: talks
 type: "Lecture"
 permalink: Bodies_of_Evidence
 venue: "South Regional Library"
-date: 2014-02-01
+date: 2025-09-13
 location: "Durham, NC"
 ---
 
