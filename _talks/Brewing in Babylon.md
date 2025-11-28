@@ -5,6 +5,7 @@ type: "Lecture"
 permalink: Brewing_in_Babylon
 venue: "The Glass Jug Beer Lab RTP"
 date: 2025-11-15
+location: "Durham, NC"
 ---
 
 [Event Page](https://durhamcountylibrary.libcal.com/event/15288068)
