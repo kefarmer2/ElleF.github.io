@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](kefarmer2/ElleF.github.io/_pages/Curriculum Vitae.pdf)
+[Download CV](kefarmer2/ElleF.github.io/_pages/curriculum-vitae.pdf)
 
 <h2>Education</h2>
 * M.S. in Library and Information Science, UNC Greensboro, 2026 (expected)
