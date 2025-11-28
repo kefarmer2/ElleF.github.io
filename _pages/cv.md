@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](kefarmer2/ElleF.github.io/_pdf/Curriculum Vitae.pdf)
+
 <h2>Education</h2>
 * M.S. in Library and Information Science, UNC Greensboro, 2026 (expected)
 * B.A. in Sociology, UNC Chapel Hill, 2019
@@ -31,4 +33,3 @@ redirect_from:
   * St. Charles City-County Library
   * Duties included: insert stuff here
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Curriculum Vitae.pdf" width="1000" height="1000" type='application/pdf'></object>
