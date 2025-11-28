@@ -31,4 +31,4 @@ redirect_from:
   * St. Charles City-County Library
   * Duties included: insert stuff here
 
-<object data="Curriculum Vitae.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Curriculum Vitae.pdf" width="1000" height="1000" type='application/pdf'></object>
