@@ -9,3 +9,6 @@ location: "Durham, NC"
 ---
 
 [Event Page](https://durhamcountylibrary.libcal.com/event/15288068)
+
+*Presenter: Dr. Tate Paulette
+*Attendees: 55
