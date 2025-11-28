@@ -8,9 +8,9 @@ date: 2025-11-15
 location: "Durham, NC"
 ---
 
-[Event Page](https://durhamcountylibrary.libcal.com/event/15288068)
-
 <ul>
     <li>Presenter: Dr. Tate Paulette</li>
     <li>Attendees: 55</li>
 </ul>
+
+[Event Page](https://durhamcountylibrary.libcal.com/event/15288068)
