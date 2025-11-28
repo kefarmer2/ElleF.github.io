@@ -8,6 +8,9 @@ date: 2025-09-13
 location: "Durham, NC"
 ---
 
-Presenter: Dr. Steven Churchill | Attendees: 55
+<ul>
+    <li>Presenter: Dr. Steven Churchill</li>
+    <li>Attendees: 62</li>
+</ul>
 
 [Event Page](https://durhamcountylibrary.libcal.com/event/14913357)
