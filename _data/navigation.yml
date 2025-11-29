@@ -9,15 +9,15 @@
 
 main:
 
+  - title: "Coursework"
+    url: /coursework/
+  
   - title: "Programs"
     url: /programs/     
     
   - title: "CV"
     url: /cv/
 
-  - title: "Coursework"
-    url: /coursework/
-    
   # - title: "CV"
   #   url: /cv-json/
     
