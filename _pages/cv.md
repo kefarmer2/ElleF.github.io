@@ -20,6 +20,8 @@ redirect_from:
 <h2>Library Experience</h2>
 * November 2023 - Current: Library Associate, Adult Services
   * Durham County Library
+  * Duties include:
+    *
 
 * May 2023 - November 2023: Library Technical Assistant
   * Wake Tech Community College
